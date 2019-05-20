@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="change_text">Change Text</string>
+    <string name="txtV">Fragment Two</string>
+    <string name="fragment_two">Fragment Two</string>
+</resources>
